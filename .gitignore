@@ -1,0 +1,13 @@
+# 防止误提交第三方论文 PDF（版权归期刊社所有）
+*.pdf
+*.PDF
+
+# 常见临时/缓存文件
+*.asv
+~$*
+.DS_Store
+Thumbs.db
+
+# MATLAB 自动保存
+slprj/
+*.mexw64
