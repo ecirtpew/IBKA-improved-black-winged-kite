@@ -319,12 +319,12 @@ CEC2017 官方在统计时剔除 F2（单峰函数组只保留 F1 与 F3），�
 
 项目已由 Zenodo 归档，可通过 DOI 永久访问：
 
-- 版本 DOI（v1.0.0）：[10.5281/zenodo.24069037](https://doi.org/10.5281/zenodo.24069037)
+- 版本 DOI（最新 v1.0.1）：[10.5281/zenodo.24077356](https://doi.org/10.5281/zenodo.24077356)
 - 概念 DOI（始终指向最新版本）：[10.5281/zenodo.24069036](https://doi.org/10.5281/zenodo.24069036)
 
 如果本项目的代码或结果对你的研究有帮助，请引用：
 
-> ecirtpew. (2026). 改进黑翅鸢算法（IBKA）：质心边界控制 + 双体加权融合 + 双分布扰动自适应差分变异 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24069037
+> ecirtpew. (2026). 改进黑翅鸢算法（IBKA）：质心边界控制 + 双体加权融合 + 双分布扰动自适应差分变异 (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.24077356
 
 BibTeX：
 
@@ -335,8 +335,8 @@ BibTeX：
   month     = nov,
   year      = 2026,
   publisher = {Zenodo},
-  version   = {v1.0.0},
-  doi       = {10.5281/zenodo.24069037},
-  url       = {https://doi.org/10.5281/zenodo.24069037}
+  version   = {v1.0.1},
+  doi       = {10.5281/zenodo.24077356},
+  url       = {https://doi.org/10.5281/zenodo.24077356}
 }
 ```

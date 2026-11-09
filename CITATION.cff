@@ -4,12 +4,12 @@ title: "改进黑翅鸢算法（IBKA）：质心边界控制 + 双体加权融�
 abstract: "改进黑翅鸢算法（IBKA）的 MATLAB 实现与完整实验代码，包含 CEC2017 基准函数测试、消融实验、三个约束工程优化问题以及光伏电池参数辨识（1DM/2DM/3DM/4DM/PMM）。"
 authors:
   - name: "ecirtpew"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-11-09"
-doi: "10.5281/zenodo.24069037"
+doi: "10.5281/zenodo.24077356"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/ecirtpew/IBKA-improved-black-winged-kite"
-url: "https://doi.org/10.5281/zenodo.24069037"
+url: "https://doi.org/10.5281/zenodo.24077356"
 keywords:
   - "metaheuristic optimization"
   - "Black-winged Kite Algorithm"
